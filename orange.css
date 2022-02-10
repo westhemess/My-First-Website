@@ -1,0 +1,47 @@
+body {
+    font-family: "Georgia", Verdana, sans-serif; 
+    background-image: url("/img/steel-plate.jpg");
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif; 
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.container {
+    width: 100%;
+}
+
+#jum {
+    text-align: center;
+}
+
+.jumbotron {
+    margin-bottom: 100px;
+    padding: 15px;
+    background-image: linear-gradient(to right,#fdf2b8, #e88200, #cb2800, #34262b);
+    color: black; 
+    text-align: center;
+    
+}
+
+img {
+    height: 300px;
+    padding: 50px;
+    padding-left: 250px;
+}
+
+.rect {
+    height: 3px;
+    width: 400px;
+    background-color: rgb(0, 0, 0);
+    align-self: center;
+    margin: 100px;
+  }
+  
